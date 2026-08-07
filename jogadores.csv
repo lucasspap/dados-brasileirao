@@ -1,0 +1,121 @@
+﻿Jogador,Time,Pos,Gols,Assistencias,Tipo
+Hulk,Atlético Mineiro,"FW,MF",8.0,6.0,Artilheiro
+Rony,Atlético Mineiro,"FW,MF",6.0,5.0,Artilheiro
+Igor Gomes,Atlético Mineiro,MF,4.0,3.0,Artilheiro
+Willian José,Bahia,FW,11.0,6.0,Artilheiro
+Luciano Juba,Bahia,DF,6.0,4.0,Artilheiro
+Rodrigo Nestor,Bahia,"MF,FW",5.0,0.0,Artilheiro
+Artur,Botafogo–RJ,MF,5.0,4.0,Artilheiro
+Cuiabano,Botafogo–RJ,"DF,MF",5.0,2.0,Artilheiro
+Fernando Marçal,Botafogo–RJ,DF,5.0,0.0,Artilheiro
+Pedro Raul,Ceará,FW,11.0,1.0,Artilheiro
+Antonio Galeano,Ceará,MF,7.0,3.0,Artilheiro
+Pedro Henrique,Ceará,"MF,FW",4.0,3.0,Artilheiro
+Yuri Alberto,Corinthians,FW,10.0,2.0,Artilheiro
+Memphis,Corinthians,FW,6.0,3.0,Artilheiro
+Gustavo Henrique,Corinthians,DF,3.0,0.0,Artilheiro
+Kaio Jorge,Cruzeiro,FW,21.0,8.0,Artilheiro
+Matheus Pereira,Cruzeiro,MF,7.0,7.0,Artilheiro
+Gabriel Barbosa,Cruzeiro,"FW,MF",6.0,2.0,Artilheiro
+Giorgian de Arrascaeta,Flamengo,MF,18.0,14.0,Artilheiro
+Pedro,Flamengo,FW,12.0,6.0,Artilheiro
+Bruno Henrique,Flamengo,"FW,MF",8.0,0.0,Artilheiro
+Kevin Serna,Fluminense,MF,7.0,5.0,Artilheiro
+Germán Cano,Fluminense,FW,6.0,0.0,Artilheiro
+Agustín Canobbio,Fluminense,MF,4.0,2.0,Artilheiro
+Adam Bareiro,Fortaleza,FW,7.0,2.0,Artilheiro
+Deyverson,Fortaleza,FW,7.0,0.0,Artilheiro
+Breno,Fortaleza,"MF,FW",6.0,3.0,Artilheiro
+Carlos Vinícius,Grêmio,FW,12.0,1.0,Artilheiro
+Martin Braithwaite,Grêmio,FW,6.0,1.0,Artilheiro
+Andre Martins,Grêmio,FW,5.0,2.0,Artilheiro
+Alan Patrick,Internacional,"MF,FW",11.0,7.0,Artilheiro
+Rafael Borré,Internacional,FW,5.0,2.0,Artilheiro
+Johan Carbonero,Internacional,"MF,FW",5.0,2.0,Artilheiro
+Gabriel Taliari,Juventude,"FW,MF",8.0,4.0,Artilheiro
+Enmerson Batalla,Juventude,"MF,FW",4.0,2.0,Artilheiro
+Ênio,Juventude,"MF,FW",3.0,0.0,Artilheiro
+Reinaldo,Mirassol,DF,13.0,6.0,Artilheiro
+Negueba,Mirassol,"FW,MF",7.0,3.0,Artilheiro
+Alesson,Mirassol,"FW,MF",6.0,5.0,Artilheiro
+Vitor Roque,Palmeiras,FW,16.0,3.0,Artilheiro
+Flaco López,Palmeiras,"FW,MF",12.0,2.0,Artilheiro
+Facundo Torres,Palmeiras,"MF,FW",6.0,3.0,Artilheiro
+Jhon Jhon,RB Bragantino,MF,10.0,7.0,Artilheiro
+Eduardo Sasha,RB Bragantino,"FW,MF",8.0,3.0,Artilheiro
+Isidro Pitta,RB Bragantino,FW,7.0,2.0,Artilheiro
+Álvaro Barreal,Santos,"MF,FW",9.0,1.0,Artilheiro
+Neymar,Santos,"FW,MF",8.0,1.0,Artilheiro
+Guilherme,Santos,MF,4.0,7.0,Artilheiro
+Derik Lacerda,Sport Recife,FW,6.0,0.0,Artilheiro
+Leo Augusto Pereira,Sport Recife,"MF,FW",3.0,1.0,Artilheiro
+Lucas Lima,Sport Recife,MF,3.0,7.0,Artilheiro
+Luciano,São Paulo,"FW,MF",9.0,4.0,Artilheiro
+Ferreira,São Paulo,"MF,FW",5.0,4.0,Artilheiro
+André Silva,São Paulo,FW,5.0,2.0,Artilheiro
+Rayan,Vasco da Gama,"MF,FW",14.0,1.0,Artilheiro
+Pablo Vegetti,Vasco da Gama,FW,14.0,1.0,Artilheiro
+Nuno Gonçalo Moreira,Vasco da Gama,"MF,FW",7.0,5.0,Artilheiro
+Renato Kayser,Vitória,FW,9.0,0.0,Artilheiro
+Lucas Halter,Vitória,DF,4.0,1.0,Artilheiro
+Matheusinho,Vitória,MF,4.0,1.0,Artilheiro
+Hulk,Atlético Mineiro,"FW,MF",8.0,6.0,Assistente
+Rony,Atlético Mineiro,"FW,MF",6.0,5.0,Assistente
+Igor Gomes,Atlético Mineiro,MF,4.0,3.0,Assistente
+Willian José,Bahia,FW,11.0,6.0,Assistente
+Ademir Santos,Bahia,"FW,MF",2.0,6.0,Assistente
+Luciano Juba,Bahia,DF,6.0,4.0,Assistente
+Santiago Rodríguez,Botafogo–RJ,MF,2.0,5.0,Assistente
+Artur,Botafogo–RJ,MF,5.0,4.0,Assistente
+Marlon Freitas,Botafogo–RJ,MF,1.0,4.0,Assistente
+Lucas Mugni,Ceará,MF,2.0,6.0,Assistente
+Antonio Galeano,Ceará,MF,7.0,3.0,Assistente
+Pedro Henrique,Ceará,"MF,FW",4.0,3.0,Assistente
+Rodrigo Garro,Corinthians,"MF,FW",0.0,3.0,Assistente
+Matheuzinho,Corinthians,"DF,MF",2.0,3.0,Assistente
+Memphis,Corinthians,FW,6.0,3.0,Assistente
+Kaio Jorge,Cruzeiro,FW,21.0,8.0,Assistente
+Matheus Pereira,Cruzeiro,MF,7.0,7.0,Assistente
+William,Cruzeiro,DF,0.0,6.0,Assistente
+Giorgian de Arrascaeta,Flamengo,MF,18.0,14.0,Assistente
+Pedro,Flamengo,FW,12.0,6.0,Assistente
+Jorge Carrascal,Flamengo,MF,2.0,5.0,Assistente
+Kevin Serna,Fluminense,MF,7.0,5.0,Assistente
+Jhon Arias,Fluminense,"MF,FW",1.0,4.0,Assistente
+Luciano Acosta,Fluminense,MF,3.0,2.0,Assistente
+Tomas Pochettino,Fortaleza,"MF,FW",3.0,4.0,Assistente
+Breno,Fortaleza,"MF,FW",6.0,3.0,Assistente
+José Herrera,Fortaleza,MF,2.0,3.0,Assistente
+Cristian Pavón,Grêmio,MF,0.0,7.0,Assistente
+Franco Cristaldo,Grêmio,MF,1.0,3.0,Assistente
+Alysson,Grêmio,"MF,FW",1.0,2.0,Assistente
+Alan Patrick,Internacional,"MF,FW",11.0,7.0,Assistente
+Alexandro Bernabei,Internacional,"DF,MF",0.0,4.0,Assistente
+Wesley,Internacional,"MF,FW",0.0,3.0,Assistente
+Marcelo Hermes,Juventude,"DF,MF",2.0,5.0,Assistente
+Nenê,Juventude,"FW,MF",3.0,4.0,Assistente
+Gabriel Taliari,Juventude,"FW,MF",8.0,4.0,Assistente
+Reinaldo,Mirassol,DF,13.0,6.0,Assistente
+Alesson,Mirassol,"FW,MF",6.0,5.0,Assistente
+Carlos Eduardo,Mirassol,"FW,MF",2.0,5.0,Assistente
+Mauricio,Palmeiras,"MF,FW",3.0,7.0,Assistente
+Raphael Veiga,Palmeiras,MF,2.0,4.0,Assistente
+Allan,Palmeiras,MF,2.0,3.0,Assistente
+Jhon Jhon,RB Bragantino,MF,10.0,7.0,Assistente
+Lucas Barbosa,RB Bragantino,MF,4.0,3.0,Assistente
+Ignacio Laquintana,RB Bragantino,MF,4.0,3.0,Assistente
+Guilherme,Santos,MF,4.0,7.0,Assistente
+Benjamín Rollheiser,Santos,"MF,FW",2.0,3.0,Assistente
+Tiquinho Soares,Santos,FW,2.0,3.0,Assistente
+Lucas Lima,Sport Recife,MF,3.0,7.0,Assistente
+Matheusinho,Sport Recife,"MF,FW",2.0,2.0,Assistente
+Matheus Alexandre,Sport Recife,DF,0.0,1.0,Assistente
+Enzo Díaz,São Paulo,"MF,DF",0.0,5.0,Assistente
+Marcos Antônio,São Paulo,MF,0.0,4.0,Assistente
+Ferreira,São Paulo,"MF,FW",5.0,4.0,Assistente
+Paulo Henrique,Vasco da Gama,DF,1.0,8.0,Assistente
+Lucas Piton,Vasco da Gama,DF,1.0,7.0,Assistente
+Andrés Gómez,Vasco da Gama,MF,1.0,5.0,Assistente
+Erick,Vitória,"MF,FW",3.0,5.0,Assistente
+Aitor Cantalapiedra,Vitória,"MF,FW",3.0,3.0,Assistente
+Raúl Cáceres,Vitória,"DF,MF",2.0,2.0,Assistente

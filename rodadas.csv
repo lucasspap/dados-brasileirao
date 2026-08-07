@@ -1,0 +1,386 @@
+﻿Rodada,Data,Casa,Placar,Fora
+1,2025-03-29,São Paulo,0–0,Sport Recife
+1,2025-03-29,Grêmio,2–1,Atlético Mineiro
+1,2025-03-29,Cruzeiro,2–1,Mirassol
+1,2025-03-29,Fortaleza,2–0,Fluminense
+1,2025-03-29,Juventude,2–0,Vitória
+1,2025-03-29,Flamengo,1–1,Internacional
+1,2025-03-30,Palmeiras,0–0,Botafogo–RJ
+1,2025-03-30,Vasco da Gama,2–1,Santos
+1,2025-03-30,Bahia,1–1,Corinthians
+1,2025-03-31,RB Bragantino,2–2,Ceará
+2,2025-04-05,Corinthians,3–0,Vasco da Gama
+2,2025-04-05,Ceará,2–0,Grêmio
+2,2025-04-05,Botafogo–RJ,2–0,Juventude
+2,2025-04-06,Atlético Mineiro,0–0,São Paulo
+2,2025-04-06,Fluminense,2–1,RB Bragantino
+2,2025-04-06,Sport Recife,1–2,Palmeiras
+2,2025-04-06,Internacional,3–0,Cruzeiro
+2,2025-04-06,Vitória,1–2,Flamengo
+2,2025-04-06,Mirassol,1–1,Fortaleza
+2,2025-04-06,Santos,2–2,Bahia
+3,2025-04-12,RB Bragantino,1–0,Botafogo–RJ
+3,2025-04-12,Juventude,2–1,Ceará
+3,2025-04-12,Palmeiras,2–0,Corinthians
+3,2025-04-12,Vasco da Gama,3–1,Sport Recife
+3,2025-04-13,Bahia,1–1,Mirassol
+3,2025-04-13,Grêmio,0–2,Flamengo
+3,2025-04-13,São Paulo,1–1,Cruzeiro
+3,2025-04-13,Fluminense,1–0,Santos
+3,2025-04-13,Fortaleza,0–0,Internacional
+3,2025-04-13,Atlético Mineiro,2–2,Vitória
+4,2025-04-15,Ceará,2–1,Vasco da Gama
+4,2025-04-16,Botafogo–RJ,2–2,São Paulo
+4,2025-04-16,Mirassol,4–1,Grêmio
+4,2025-04-16,Sport Recife,0–1,RB Bragantino
+4,2025-04-16,Corinthians,0–2,Fluminense
+4,2025-04-16,Internacional,0–1,Palmeiras
+4,2025-04-16,Flamengo,6–0,Juventude
+4,2025-04-16,Santos,2–0,Atlético Mineiro
+4,2025-04-16,Vitória,2–1,Fortaleza
+4,2025-04-17,Cruzeiro,3–0,Bahia
+5,2025-04-19,Corinthians,2–1,Sport Recife
+5,2025-04-19,Vasco da Gama,0–0,Flamengo
+5,2025-04-19,Grêmio,1–1,Internacional
+5,2025-04-20,Juventude,2–2,Mirassol
+5,2025-04-20,São Paulo,2–1,Santos
+5,2025-04-20,Atlético Mineiro,1–0,Botafogo–RJ
+5,2025-04-20,Fluminense,1–1,Vitória
+5,2025-04-20,Fortaleza,1–2,Palmeiras
+5,2025-04-20,RB Bragantino,1–0,Cruzeiro
+5,2025-04-21,Bahia,1–0,Ceará
+6,2025-04-26,Internacional,3–1,Juventude
+6,2025-04-26,Ceará,1–1,São Paulo
+6,2025-04-26,Mirassol,2–2,Atlético Mineiro
+6,2025-04-26,Sport Recife,0–0,Fortaleza
+6,2025-04-26,Botafogo–RJ,2–0,Fluminense
+6,2025-04-27,Flamengo,4–0,Corinthians
+6,2025-04-27,Palmeiras,0–1,Bahia
+6,2025-04-27,Cruzeiro,1–0,Vasco da Gama
+6,2025-04-27,Vitória,1–1,Grêmio
+6,2025-04-27,Santos,1–2,RB Bragantino
+7,2025-05-02,São Paulo,0–0,Fortaleza
+7,2025-05-03,Corinthians,4–2,Internacional
+7,2025-05-03,Fluminense,2–1,Sport Recife
+7,2025-05-03,Ceará,1–0,Vitória
+7,2025-05-03,Bahia,1–0,Botafogo–RJ
+7,2025-05-04,Vasco da Gama,0–1,Palmeiras
+7,2025-05-04,Grêmio,1–0,Santos
+7,2025-05-04,Cruzeiro,2–1,Flamengo
+7,2025-05-05,RB Bragantino,1–0,Mirassol
+7,2025-05-05,Juventude,0–1,Atlético Mineiro
+8,2025-05-10,Fortaleza,5–0,Juventude
+8,2025-05-10,Grêmio,1–1,RB Bragantino
+8,2025-05-10,Vitória,2–1,Vasco da Gama
+Wk,Date,Home,Score,Away
+8,2025-05-10,Mirassol,2–1,Corinthians
+8,2025-05-10,Flamengo,1–0,Bahia
+8,2025-05-11,Sport Recife,0–4,Cruzeiro
+8,2025-05-11,Atlético Mineiro,3–2,Fluminense
+8,2025-05-11,Palmeiras,1–0,São Paulo
+8,2025-05-11,Botafogo–RJ,4–0,Internacional
+8,2025-05-12,Santos,0–0,Ceará
+9,2025-05-17,Ceará,2–0,Sport Recife
+9,2025-05-17,Vasco da Gama,3–0,Fortaleza
+9,2025-05-17,São Paulo,2–1,Grêmio
+9,2025-05-18,Corinthians,1–0,Santos
+9,2025-05-18,Bahia,2–1,Vitória
+9,2025-05-18,Juventude,1–1,Fluminense
+9,2025-05-18,RB Bragantino,1–2,Palmeiras
+9,2025-05-18,Flamengo,0–0,Botafogo–RJ
+9,2025-05-18,Internacional,1–1,Mirassol
+9,2025-05-18,Cruzeiro,0–0,Atlético Mineiro
+10,2025-05-24,Fluminense,2–1,Vasco da Gama
+10,2025-05-24,São Paulo,0–2,Mirassol
+10,2025-05-24,Atlético Mineiro,0–0,Corinthians
+10,2025-05-25,Grêmio,1–0,Bahia
+10,2025-05-25,Palmeiras,0–2,Flamengo
+10,2025-05-25,Sport Recife,1–1,Internacional
+10,2025-05-25,Vitória,0–1,Santos
+10,2025-05-25,Fortaleza,0–2,Cruzeiro
+10,2025-05-26,RB Bragantino,1–0,Juventude
+11,2025-05-31,Bahia,2–1,São Paulo
+11,2025-05-31,Vasco da Gama,0–2,RB Bragantino
+11,2025-06-01,Mirassol,1–0,Sport Recife
+11,2025-06-01,Juventude,0–2,Grêmio
+11,2025-06-01,Santos,0–1,Botafogo–RJ
+11,2025-06-01,Flamengo,5–0,Fortaleza
+11,2025-06-01,Ceará,0–1,Atlético Mineiro
+11,2025-06-01,Corinthians,0–0,Vitória
+11,2025-06-01,Cruzeiro,2–1,Palmeiras
+11,2025-06-01,Internacional,0–2,Fluminense
+10,2025-06-04,Botafogo–RJ,3–2,Ceará
+12,2025-06-12,Vitória,0–0,Cruzeiro
+12,2025-06-12,RB Bragantino,0–3,Bahia
+12,2025-06-12,Fortaleza,2–3,Santos
+12,2025-06-12,Grêmio,1–1,Corinthians
+12,2025-06-12,São Paulo,1–3,Vasco da Gama
+12,2025-06-12,Atlético Mineiro,2–0,Internacional
+13,2025-07-12,Internacional,1–0,Vitória
+13,2025-07-12,Flamengo,2–0,São Paulo
+13,2025-07-12,Vasco da Gama,0–2,Botafogo–RJ
+13,2025-07-12,Bahia,2–1,Atlético Mineiro
+13,2025-07-13,Corinthians,1–2,RB Bragantino
+13,2025-07-13,Cruzeiro,4–1,Grêmio
+13,2025-07-13,Fortaleza,0–1,Ceará
+13,2025-07-14,Juventude,2–0,Sport Recife
+14,2025-07-16,Palmeiras,1–1,Mirassol
+14,2025-07-16,Ceará,0–1,Corinthians
+14,2025-07-16,Santos,1–0,Flamengo
+14,2025-07-16,RB Bragantino,2–2,São Paulo
+14,2025-07-16,Botafogo–RJ,0–0,Vitória
+14,2025-07-17,Fluminense,0–2,Cruzeiro
+15,2025-07-19,Fortaleza,1–1,Bahia
+15,2025-07-19,Vasco da Gama,1–1,Grêmio
+15,2025-07-19,Mirassol,3–0,Santos
+15,2025-07-19,São Paulo,2–0,Corinthians
+15,2025-07-20,Internacional,1–0,Ceará
+15,2025-07-20,Vitória,1–0,RB Bragantino
+15,2025-07-20,Cruzeiro,4–0,Juventude
+15,2025-07-20,Sport Recife,0–1,Botafogo–RJ
+15,2025-07-20,Palmeiras,3–2,Atlético Mineiro
+15,2025-07-20,Flamengo,1–0,Fluminense
+16,2025-07-23,Fluminense,1–2,Palmeiras
+16,2025-07-23,Ceará,0–2,Mirassol
+16,2025-07-23,Corinthians,0–0,Cruzeiro
+16,2025-07-23,RB Bragantino,1–2,Flamengo
+Wk,Date,Home,Score,Away
+16,2025-07-23,Santos,1–2,Internacional
+16,2025-07-23,Vitória,2–2,Sport Recife
+16,2025-07-24,Juventude,0–1,São Paulo
+17,2025-07-26,Mirassol,1–1,Vitória
+17,2025-07-26,Fortaleza,3–1,RB Bragantino
+17,2025-07-26,Botafogo–RJ,1–1,Corinthians
+17,2025-07-26,Sport Recife,2–2,Santos
+17,2025-07-26,Palmeiras,1–0,Grêmio
+17,2025-07-27,Cruzeiro,1–2,Ceará
+17,2025-07-27,São Paulo,3–1,Fluminense
+17,2025-07-27,Bahia,3–0,Juventude
+17,2025-07-27,Internacional,1–1,Vasco da Gama
+17,2025-07-27,Flamengo,1–0,Atlético Mineiro
+14,2025-07-29,Grêmio,2–1,Fortaleza
+18,2025-08-02,Sport Recife,0–0,Bahia
+18,2025-08-02,Mirassol,3–2,Vasco da Gama
+18,2025-08-02,Fluminense,1–0,Grêmio
+18,2025-08-03,Corinthians,1–1,Fortaleza
+18,2025-08-03,Botafogo–RJ,0–2,Cruzeiro
+18,2025-08-03,Atlético Mineiro,2–1,RB Bragantino
+18,2025-08-03,Ceará,1–1,Flamengo
+18,2025-08-03,Vitória,2–2,Palmeiras
+18,2025-08-03,Internacional,1–2,São Paulo
+18,2025-08-04,Santos,3–1,Juventude
+19,2025-08-09,São Paulo,2–0,Vitória
+19,2025-08-09,Flamengo,2–1,Mirassol
+19,2025-08-09,RB Bragantino,1–3,Internacional
+19,2025-08-09,Fortaleza,0–5,Botafogo–RJ
+19,2025-08-09,Bahia,3–3,Fluminense
+19,2025-08-10,Vasco da Gama,1–1,Atlético Mineiro
+19,2025-08-10,Palmeiras,2–1,Ceará
+19,2025-08-10,Cruzeiro,1–2,Santos
+19,2025-08-10,Grêmio,0–1,Sport Recife
+19,2025-08-11,Juventude,2–1,Corinthians
+20,2025-08-16,Ceará,1–0,RB Bragantino
+20,2025-08-16,Fluminense,2–1,Fortaleza
+20,2025-08-16,Vitória,2–2,Juventude
+20,2025-08-16,Sport Recife,2–2,São Paulo
+20,2025-08-16,Corinthians,1–2,Bahia
+20,2025-08-17,Atlético Mineiro,1–3,Grêmio
+20,2025-08-17,Santos,0–6,Vasco da Gama
+20,2025-08-17,Internacional,1–3,Flamengo
+20,2025-08-17,Botafogo–RJ,0–1,Palmeiras
+20,2025-08-18,Mirassol,1–1,Cruzeiro
+14,2025-08-20,Juventude,2–0,Vasco da Gama
+21,2025-08-23,RB Bragantino,4–2,Fluminense
+21,2025-08-23,Cruzeiro,2–1,Internacional
+21,2025-08-23,Grêmio,0–0,Ceará
+21,2025-08-24,Bahia,2–0,Santos
+21,2025-08-24,Vasco da Gama,2–3,Corinthians
+21,2025-08-24,Juventude,1–3,Botafogo–RJ
+21,2025-08-24,Fortaleza,0–1,Mirassol
+21,2025-08-24,São Paulo,2–0,Atlético Mineiro
+21,2025-08-25,Palmeiras,3–0,Sport Recife
+21,2025-08-25,Flamengo,8–0,Vitória
+22,2025-08-30,Ceará,0–1,Juventude
+22,2025-08-30,Botafogo–RJ,4–1,RB Bragantino
+22,2025-08-30,Cruzeiro,1–0,São Paulo
+22,2025-08-31,Santos,0–0,Fluminense
+22,2025-08-31,Flamengo,1–1,Grêmio
+22,2025-08-31,Mirassol,5–1,Bahia
+22,2025-08-31,Corinthians,1–1,Palmeiras
+22,2025-08-31,Vitória,1–0,Atlético Mineiro
+22,2025-08-31,Internacional,2–1,Fortaleza
+22,2025-08-31,Sport Recife,2–3,Vasco da Gama
+23,2025-09-13,Fortaleza,2–0,Vitória
+23,2025-09-13,Grêmio,0–1,Mirassol
+23,2025-09-13,Palmeiras,4–1,Internacional
+23,2025-09-13,Fluminense,0–1,Corinthians
+23,2025-09-14,RB Bragantino,1–1,Sport Recife
+23,2025-09-14,Juventude,0–2,Flamengo
+Wk,Date,Home,Score,Away
+23,2025-09-14,Atlético Mineiro,1–1,Santos
+23,2025-09-14,São Paulo,1–0,Botafogo–RJ
+23,2025-09-14,Vasco da Gama,2–2,Ceará
+23,2025-09-15,Bahia,1–2,Cruzeiro
+12,2025-09-17,Botafogo–RJ,3–3,Mirassol
+24,2025-09-20,Vitória,0–1,Fluminense
+24,2025-09-20,Botafogo–RJ,1–0,Atlético Mineiro
+24,2025-09-20,Ceará,1–1,Bahia
+24,2025-09-20,Palmeiras,4–1,Fortaleza
+24,2025-09-21,Mirassol,2–0,Juventude
+24,2025-09-21,Internacional,2–3,Grêmio
+24,2025-09-21,Sport Recife,1–0,Corinthians
+24,2025-09-21,Flamengo,1–1,Vasco da Gama
+24,2025-09-21,Santos,1–0,São Paulo
+24,2025-09-21,Cruzeiro,2–1,RB Bragantino
+16,2025-09-24,Vasco da Gama,3–1,Bahia
+16,2025-09-24,Grêmio,1–1,Botafogo–RJ
+25,2025-09-27,Fortaleza,1–0,Sport Recife
+25,2025-09-27,Vasco da Gama,2–0,Cruzeiro
+25,2025-09-27,Juventude,1–1,Internacional
+25,2025-09-27,Atlético Mineiro,1–0,Mirassol
+25,2025-09-28,Grêmio,3–1,Vitória
+25,2025-09-28,Fluminense,2–0,Botafogo–RJ
+25,2025-09-28,Bahia,1–0,Palmeiras
+25,2025-09-28,RB Bragantino,2–2,Santos
+25,2025-09-28,Corinthians,1–2,Flamengo
+25,2025-09-29,São Paulo,0–1,Ceará
+26,2025-09-30,Atlético Mineiro,0–0,Juventude
+26,2025-10-01,Mirassol,1–1,RB Bragantino
+26,2025-10-01,Sport Recife,2–2,Fluminense
+26,2025-10-01,Palmeiras,3–0,Vasco da Gama
+26,2025-10-01,Internacional,1–1,Corinthians
+26,2025-10-01,Santos,1–1,Grêmio
+26,2025-10-01,Botafogo–RJ,2–1,Bahia
+26,2025-10-02,Vitória,1–0,Ceará
+26,2025-10-02,Fortaleza,0–2,São Paulo
+26,2025-10-02,Flamengo,0–0,Cruzeiro
+27,2025-10-04,RB Bragantino,1–0,Grêmio
+27,2025-10-04,Internacional,2–0,Botafogo–RJ
+27,2025-10-04,Fluminense,3–0,Atlético Mineiro
+27,2025-10-04,Corinthians,3–0,Mirassol
+27,2025-10-05,Vasco da Gama,4–3,Vitória
+27,2025-10-05,São Paulo,2–3,Palmeiras
+27,2025-10-05,Juventude,1–2,Fortaleza
+27,2025-10-05,Bahia,1–0,Flamengo
+27,2025-10-05,Cruzeiro,1–1,Sport Recife
+27,2025-10-05,Ceará,3–0,Santos
+14,2025-10-08,Atlético Mineiro,3–1,Sport Recife
+13,2025-10-08,Mirassol,2–1,Fluminense
+12,2025-10-11,Palmeiras,4–1,Juventude
+28,2025-10-15,Palmeiras,5–1,RB Bragantino
+28,2025-10-15,Botafogo–RJ,0–3,Flamengo
+28,2025-10-15,Mirassol,3–1,Internacional
+28,2025-10-15,Sport Recife,1–1,Ceará
+28,2025-10-15,Atlético Mineiro,1–1,Cruzeiro
+28,2025-10-15,Santos,3–1,Corinthians
+28,2025-10-15,Fortaleza,0–2,Vasco da Gama
+28,2025-10-16,Grêmio,2–0,São Paulo
+28,2025-10-16,Vitória,2–1,Bahia
+28,2025-10-16,Fluminense,1–0,Juventude
+29,2025-10-18,Corinthians,1–0,Atlético Mineiro
+29,2025-10-18,Cruzeiro,1–0,Fortaleza
+29,2025-10-19,Flamengo,3–2,Palmeiras
+29,2025-10-19,Ceará,0–2,Botafogo–RJ
+29,2025-10-19,Internacional,2–0,Sport Recife
+29,2025-10-19,Mirassol,3–0,São Paulo
+29,2025-10-19,Bahia,4–0,Grêmio
+29,2025-10-20,Juventude,1–0,RB Bragantino
+29,2025-10-20,Vasco da Gama,2–0,Fluminense
+Wk,Date,Home,Score,Away
+29,2025-10-20,Santos,0–1,Vitória
+14,2025-10-22,Bahia,1–0,Internacional
+30,2025-10-25,Vitória,0–1,Corinthians
+30,2025-10-25,Atlético Mineiro,1–0,Ceará
+30,2025-10-25,Fluminense,1–0,Internacional
+30,2025-10-25,Sport Recife,1–2,Mirassol
+30,2025-10-25,Fortaleza,1–0,Flamengo
+30,2025-10-25,São Paulo,2–0,Bahia
+30,2025-10-26,Grêmio,3–1,Juventude
+30,2025-10-26,Botafogo–RJ,2–2,Santos
+30,2025-10-26,RB Bragantino,0–3,Vasco da Gama
+30,2025-10-26,Palmeiras,0–0,Cruzeiro
+12,2025-10-29,Fluminense,1–0,Ceará
+31,2025-11-01,Cruzeiro,3–1,Vitória
+31,2025-11-01,Santos,1–1,Fortaleza
+31,2025-11-01,Mirassol,0–0,Botafogo–RJ
+31,2025-11-01,Flamengo,3–0,Sport Recife
+31,2025-11-02,Bahia,2–1,RB Bragantino
+31,2025-11-02,Corinthians,2–0,Grêmio
+31,2025-11-02,Ceará,2–0,Fluminense
+31,2025-11-02,Internacional,0–0,Atlético Mineiro
+31,2025-11-02,Juventude,0–2,Palmeiras
+31,2025-11-02,Vasco da Gama,0–2,São Paulo
+32,2025-11-05,RB Bragantino,2–1,Corinthians
+32,2025-11-05,Vitória,1–0,Internacional
+32,2025-11-05,Sport Recife,0–2,Juventude
+32,2025-11-05,Botafogo–RJ,3–0,Vasco da Gama
+32,2025-11-05,Grêmio,0–1,Cruzeiro
+32,2025-11-05,Atlético Mineiro,3–0,Bahia
+32,2025-11-05,São Paulo,2–2,Flamengo
+32,2025-11-06,Fluminense,1–0,Mirassol
+32,2025-11-06,Ceará,1–1,Fortaleza
+32,2025-11-06,Palmeiras,2–0,Santos
+33,2025-11-08,Sport Recife,2–4,Atlético Mineiro
+33,2025-11-08,Vasco da Gama,1–3,Juventude
+33,2025-11-08,Internacional,2–2,Bahia
+33,2025-11-08,São Paulo,0–1,RB Bragantino
+33,2025-11-09,Vitória,0–0,Botafogo–RJ
+33,2025-11-09,Corinthians,0–1,Ceará
+33,2025-11-09,Cruzeiro,0–0,Fluminense
+33,2025-11-09,Flamengo,3–2,Santos
+33,2025-11-09,Mirassol,2–1,Palmeiras
+33,2025-11-09,Fortaleza,2–2,Grêmio
+16,2025-11-12,Atlético Mineiro,3–3,Fortaleza
+12,2025-11-15,Sport Recife,1–5,Flamengo
+13,2025-11-15,Santos,1–0,Palmeiras
+37,2025-11-16,RB Bragantino,2–0,Atlético Mineiro
+34,2025-11-18,Botafogo–RJ,3–2,Sport Recife
+37,2025-11-19,Palmeiras,0–0,Vitória
+34,2025-11-19,Grêmio,2–0,Vasco da Gama
+34,2025-11-19,Fluminense,2–1,Flamengo
+34,2025-11-19,Santos,1–1,Mirassol
+34,2025-11-20,Juventude,3–3,Cruzeiro
+34,2025-11-20,Bahia,2–3,Fortaleza
+34,2025-11-20,Corinthians,3–1,São Paulo
+34,2025-11-20,Ceará,1–2,Internacional
+35,2025-11-22,Botafogo–RJ,3–2,Grêmio
+35,2025-11-22,Flamengo,3–0,RB Bragantino
+35,2025-11-22,Palmeiras,0–0,Fluminense
+35,2025-11-23,Bahia,1–0,Vasco da Gama
+35,2025-11-23,São Paulo,2–1,Juventude
+35,2025-11-23,Sport Recife,1–3,Vitória
+35,2025-11-23,Cruzeiro,3–0,Corinthians
+35,2025-11-24,Mirassol,3–0,Ceará
+35,2025-11-24,Internacional,1–1,Santos
+Wk,Date,Home,Score,Away
+36,2025-11-25,Grêmio,3–2,Palmeiras
+36,2025-11-25,Atlético Mineiro,1–1,Flamengo
+36,2025-11-26,RB Bragantino,0–1,Fortaleza
+36,2025-11-27,Fluminense,6–0,São Paulo
+36,2025-11-28,Juventude,1–1,Bahia
+36,2025-11-28,Vasco da Gama,5–1,Internacional
+36,2025-11-28,Santos,3–0,Sport Recife
+36,2025-11-29,Vitória,2–0,Mirassol
+36,2025-11-29,Ceará,1–1,Cruzeiro
+36,2025-11-30,Corinthians,2–2,Botafogo–RJ
+35,2025-11-30,Fortaleza,1–0,Atlético Mineiro
+37,2025-12-02,Vasco da Gama,0–2,Mirassol
+37,2025-12-02,Grêmio,1–2,Fluminense
+34,2025-12-03,RB Bragantino,4–0,Vitória
+37,2025-12-03,Fortaleza,2–1,Corinthians
+37,2025-12-03,Juventude,0–3,Santos
+37,2025-12-03,São Paulo,3–0,Internacional
+37,2025-12-03,Bahia,2–0,Sport Recife
+34,2025-12-03,Atlético Mineiro,0–3,Palmeiras
+37,2025-12-03,Flamengo,1–0,Ceará
+37,2025-12-04,Cruzeiro,2–2,Botafogo–RJ
+38,2025-12-06,Mirassol,3–3,Flamengo
+38,2025-12-07,Corinthians,1–1,Juventude
+38,2025-12-07,Santos,3–0,Cruzeiro
+38,2025-12-07,Internacional,3–1,RB Bragantino
+38,2025-12-07,Botafogo–RJ,4–2,Fortaleza
+38,2025-12-07,Atlético Mineiro,5–0,Vasco da Gama
+38,2025-12-07,Vitória,1–0,São Paulo
+38,2025-12-07,Sport Recife,0–4,Grêmio
+38,2025-12-07,Ceará,1–3,Palmeiras
+38,2025-12-07,Fluminense,2–0,Bahia
